@@ -1,3 +1,9 @@
+# mobx를 이용한 카운터 변화 app
+ 
+## npm install mobx
+
+## npm install mobx-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
